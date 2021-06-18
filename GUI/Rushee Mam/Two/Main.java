@@ -1,0 +1,10 @@
+import java.lang.*;
+
+public class Main
+{
+	public static void main(String args[])
+	{
+		ContractEditor cd = new ContractEditor();
+		cd.setVisible(true);
+	}
+}
